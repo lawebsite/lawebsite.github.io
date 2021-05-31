@@ -14,8 +14,8 @@
  }
 
  #header-title {
-   display: block;
-   float: left;
+   /* display: block;
+   float: left; */
 
    font-size: 20px;
    font-weight: bold;
